@@ -1,5 +1,5 @@
 1.
-# Realización de una poligonal abierta con coordenadas
+Generación de poligonal a partir de imágenes de dron.
 
 Imágenes de dron
 
