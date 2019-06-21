@@ -1,10 +1,8 @@
-Generación de poligonal a partir de imágenes de dron.
-
-Imágenes de dron
+GENERACION DE POLIGONAL A PARTIR DE IMAGENES DE DRON.
 
 Osvaldo Barajas Amezcua, Estefanía Guadalupe Hernández Aldrete.
 
-  Campus Coquimatlán, 28400, [obarajas2@ucol.mx](mailto:obarajas2@ucol.mx),  ehernandez21@ucol.mx.
+ Campus Coquimatlán, 28400, [obarajas2@ucol.mx](mailto:obarajas2@ucol.mx),  ehernandez21@ucol.mx.
 
 Resumen
 
