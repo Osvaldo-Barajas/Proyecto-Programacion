@@ -104,3 +104,6 @@ Markey, Karen (1990). Keyword searching in an online catalog enhanced with a lib
 Sagredo Fernández, Félix; Espinosa Temiño, María Blanca (2000). Del libro, al libro electrónico-digital. // Cuadernos de Documentación Multimedia. 9 (2000).
 
 Smith, Ph. J.; Beghtol, C.; Fidel, R.; Kwasnik, B. H. (eds.) (1993). Proceedings of the 4th ASIS SIG/CR Classification Research Workshop: Columbus, OH, Oct.24, 1993. Silver Spring, MD.: American Society for Information Science, 1993.
+
+
+![Imagen2](https://raw.githubusercontent.com/Osvaldo-Barajas/Proyecto-Programacion/master/Imagenes/POSTER.png)
