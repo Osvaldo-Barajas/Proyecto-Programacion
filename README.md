@@ -45,10 +45,12 @@ Existen distintos tipos de mapas, simbólicos y gráficos, gracias a los mapas d
 El programa permite editar otros metadatos de las imágenes como, por ejemplo, la fecha de creación.
 
 GeoSetter permite también la exportación a Google Earth y a Locr.
+
 ![Imagen1](https://raw.githubusercontent.com/Osvaldo-Barajas/Proyecto-Programacion/master/GEOSETTER.jpg)
 
 
 2.2. Preparación del código
+
 ![Imagen1](https://raw.githubusercontent.com/Osvaldo-Barajas/Proyecto-Programacion/master/Imagenes/codigo.png)
  
 3.Manejo de datos
