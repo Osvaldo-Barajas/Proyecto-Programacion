@@ -103,4 +103,4 @@ Smith, Ph. J.; Beghtol, C.; Fidel, R.; Kwasnik, B. H. (eds.) (1993). Proceedings
 
 POSTER:
 
-![Imagen2](https://raw.githubusercontent.com/Osvaldo-Barajas/Proyecto-Programacion/master/Imagenes/POSTER.png)
+![Imagen2](https://raw.githubusercontent.com/Osvaldo-Barajas/Proyecto-Programacion/master/GENERACI%C3%93N%20DE%20UNA%20POLIGONAL%20A%20PARTIR%20DE%20IM%C3%81GENES%20DE%20DRON%20.png)
